@@ -6,13 +6,13 @@
 **Description:** OpenCart is a free, open source e-commerce platform designed to provide online merchants with 
             a robust and reliable foundation to build and manage successful online stores.
 
-**Features & Benefits:**
 
-**User-Friendly Interface:** Tailored for both seasoned web developers and new shop owners, offering an intuitive, easy-to-navigate interface.
+**Testing Approach :**
 
-**Extensive Customization:** Provides a wide range of tools and features, enabling users to fully customize their online store to meet specific needs and preferences.
+**1.UI Testing :** Objective: Ensure the user interface is consistent with design specifications and provides a seamless user experience.
 
-**Professional and Reliable Foundation:** Ensures a stable and robust platform for building, managing, and growing an e-commerce business.
+**2.Functional Testing :** Objective: Ensure all features and functionalities work as expected.
 
-**Objective:** Empower online merchants by providing a versatile and powerful platform to elevate their business,
-          offering features and tools that maximize the potential of their online store.
+**3.Regression Testing :** Objective: To ensure new code changes do not negatively impact existing functionalities.
+
+**4.User Acceptance Testing (UAT) :** Objective: To validate the application from an end-user perspective.
